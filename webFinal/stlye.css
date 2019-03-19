@@ -13,3 +13,14 @@ h1 {
 img {
     width:250px;
 }
+
+#centerimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding:20px;
+}
+
+#lightgreen {
+    
+}
