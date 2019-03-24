@@ -4,7 +4,7 @@
  
 h3 {
     font-family: PoiretOne;
-} 
+}  
   
 .center {
     text-align: center;  
@@ -12,6 +12,7 @@ h3 {
 
 img {
     width: 250px; 
+    height:250px;
 } 
 
 .green {
@@ -26,7 +27,8 @@ img {
 }  
 
 div {
-background-color:#c4f6fc
-border-style
+background-color:#c4f6fc;
+border-left-style: solid;
+
    
 }    
